@@ -1,0 +1,8 @@
+/*body{
+    background-image: url(assets/images/background.jpg);
+} */
+ul{
+    list-style-type: none;
+    text-align: left;
+    padding-left: 0px;
+}
