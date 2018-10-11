@@ -1,8 +1,14 @@
-/*body{
-    background-image: url(assets/images/background.jpg);
-} */
+body{
+    background-image: url(assets/images/bg1.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
 ul{
     list-style-type: none;
     text-align: left;
     padding-left: 0px;
+}
+.topLi{
+    color: black;
+    font-size: 110%;
 }
