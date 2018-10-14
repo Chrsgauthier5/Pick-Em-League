@@ -12,3 +12,7 @@ ul{
     color: black;
     font-size: 110%;
 }
+input{
+    height: 24px;
+    margin: 2px;
+}
